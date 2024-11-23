@@ -1,15 +1,7 @@
 'use client';
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import {
-  X,
-  Send,
-  ArrowRight,
-  CheckCircle,
-  Plus,
-  Minus,
-  Phone,
-} from 'lucide-react';
+import { CheckCircle, Plus, Minus } from 'lucide-react';
 import {
   Dialog,
   DialogContent,

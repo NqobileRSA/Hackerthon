@@ -16,7 +16,7 @@ interface Member {
   id: number;
   name: string;
   phoneNumber: string;
-  password: string; // Added password field
+  password: string;
 }
 
 const mockMembers: Member[] = [
